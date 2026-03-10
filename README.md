@@ -72,5 +72,4 @@ ochoa104cy@outlook.com
 ## Research and Publications
 
 Publications related to cybersecurity governance and compliance research are available through Zenodo and connected to my ORCID research profile.
-- Whitepaper: Mental Health Data Analysis in R: A Comprehensive Guide to Insights in the Tech Industry [https://doi.org/10.5281/zenodo.14799104]
-- Whitepaper: A Comprehensive Study of DoD Training Applications and Needs in the Cyberspace Field [https://doi.org/10.5281/zenodo.14799062]
+
