@@ -1,5 +1,6 @@
 # Eliza Ochoa
 
+
 Cybersecurity Compliance | CMMC | Governance, Risk, and Compliance (GRC)
 
 Cybersecurity professional with leadership experience in compliance-focused operational environments and formal training in CMMC 2.0 and NIST security frameworks. My work focuses on cybersecurity governance, risk assessment, compliance documentation, and readiness evaluation aligned with regulated security requirements.
@@ -17,7 +18,6 @@ Cybersecurity professional with leadership experience in compliance-focused oper
 - Risk assessment and remediation planning
 
 ## Portfolio Direction
-Cyber Compliance Portfolio [https://eliza-ochoa.github.io]
 
 This GitHub portfolio contains demonstration projects and documentation focused on cybersecurity compliance, security governance, and structured risk analysis.
 
