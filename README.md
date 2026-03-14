@@ -1,7 +1,7 @@
 # Eliza Ochoa
 
 
-Cybersecurity Compliance | CMMC | Governance, Risk, and Compliance (GRC)
+Cybersecurity Compliance | Certified CMMC Professional (CCP) | Governance, Risk, and Compliance (GRC)
 
 Cybersecurity professional with leadership experience in compliance-focused operational environments and formal training in CMMC 2.0 and NIST security frameworks. My work focuses on cybersecurity governance, risk assessment, compliance documentation, and readiness evaluation aligned with regulated security requirements.
 
@@ -53,7 +53,6 @@ Expected Graduation: December 2026
 ## Certification Path
 
 Certified CMMC Professional (CCP)  
-Exam scheduled March 2026
 
 Certified CMMC Professional Training  
 Rochester Institute of Technology
