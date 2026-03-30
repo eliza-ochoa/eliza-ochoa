@@ -83,3 +83,6 @@ CMMC Certified Professional (CCP)
 
 Publications related to cybersecurity governance and compliance research are available through Zenodo and connected to my [ORCID](https://orcid.org/0009-0006-8845-5692) research profile and [Portfolio page](https://eliza-ochoa.github.io) 
 
+
+
+© 2026 Eliza Ochoa - TANO Research
