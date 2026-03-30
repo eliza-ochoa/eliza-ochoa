@@ -1,6 +1,6 @@
 # Eliza Ochoa
 
-Cybersecurity Compliance |  CMMC Certified Professional (CCP) | Governance, Risk, and Compliance (GRC)
+Cybersecurity Compliance |  CMMC Certified Professional (CCP) | Governance, Risk, and Compliance (GRC) | AI/ML Analysis
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
