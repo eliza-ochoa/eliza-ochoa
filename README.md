@@ -3,7 +3,7 @@
 Cybersecurity Compliance |  CMMC Certified Professional (CCP) | Governance, Risk, and Compliance (GRC)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-GRC-green)
 
 ## 🚀 Featured Live Projects
