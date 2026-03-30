@@ -30,6 +30,10 @@ All projects are built locally first and later published to GitHub as polished d
 - Security control analysis
 - Compliance dashboards and reporting
 - Cybersecurity research publications
+- 
+## 🌐 Live Demo
+
+👉 [https://your-streamlit-link](https://ip-intel-analyst-workspace.streamlit.app/)
 
 ## Professional Background
 
@@ -52,8 +56,9 @@ Expected Graduation: December 2026
 
 ## Certification Path
 
- CMMC Certified Assessor (CCA)  
+CMMC Certified Assessor (CCA) | compTIA Security+
 
+Completed:
 Certified CMMC Professional Training  
 Rochester Institute of Technology
 
