@@ -9,9 +9,8 @@ Cybersecurity Compliance |  CMMC Certified Professional (CCP) | Governance, Risk
 ## 🚀 Featured Live Projects
 
 ### 🌐 IP Intelligence Analyst Workspace  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://ip-intel-analyst-workspace.streamlit.app/)
-
 A Streamlit-based cybersecurity analyst workspace for IP investigation, risk scoring, tagging, and case history tracking.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://ip-intel-analyst-workspace.streamlit.app/)
 
 
 ## 👤 About Me
