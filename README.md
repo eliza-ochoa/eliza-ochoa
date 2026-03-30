@@ -10,7 +10,11 @@ Cybersecurity Compliance |  CMMC Certified Professional (CCP) | Governance, Risk
 
 ### 🌐 IP Intelligence Analyst Workspace  
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://ip-intel-analyst-workspace.streamlit.app/)
+
 A Streamlit-based cybersecurity analyst workspace for IP investigation, risk scoring, tagging, and case history tracking.
+
+
+## 👤 About Me
 
 Cybersecurity professional with leadership experience in compliance-focused operational environments and formal training in CMMC and NIST security frameworks. My work focuses on cybersecurity governance, risk assessment, compliance documentation, and readiness evaluation aligned with regulated security requirements.
 
