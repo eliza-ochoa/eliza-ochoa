@@ -2,7 +2,6 @@
 
 Cybersecurity Compliance |  CMMC Certified Professional (CCP) | Governance, Risk, and Compliance (GRC) | AI/ML Analysis
 
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-GRC-green)
@@ -11,6 +10,7 @@ Cybersecurity Compliance |  CMMC Certified Professional (CCP) | Governance, Risk
 
 ### 🌐 IP Intelligence Analyst Workspace  
 A Streamlit-based cybersecurity analyst workspace for IP investigation, risk scoring, tagging, and case history tracking.
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://ip-intel-analyst-workspace.streamlit.app/)
 
 
