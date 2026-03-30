@@ -16,7 +16,11 @@ A Streamlit-based cybersecurity analyst workspace for IP investigation, risk sco
 
 ## 👤 About Me
 
-Cybersecurity professional with leadership experience in compliance-focused operational environments and formal training in CMMC and NIST security frameworks. My work focuses on cybersecurity governance, risk assessment, compliance documentation, and readiness evaluation aligned with regulated security requirements.
+I am a cybersecurity and data science professional focused on governance, risk, and compliance (GRC), with a strong interest in building practical, real-world security solutions. My work centers on developing tools and systems that combine cybersecurity principles, data analysis, and automation to improve decision-making and strengthen organizational security.
+
+With a background in leadership and operations, I bring a structured and disciplined approach to problem-solving. I am particularly interested in areas such as CMMC compliance, risk assessment, threat intelligence, and AI-driven security tools. My goal is to bridge the gap between technical implementation and strategic security frameworks by creating solutions that are both effective and accessible.
+
+Through my projects, I aim to demonstrate not only technical capability, but also the ability to think critically, design systems, and apply cybersecurity concepts in real-world scenarios.
 
 ## 🧠 Professional Focus
 
@@ -58,7 +62,7 @@ Technical exposure includes:
 
 ## 🎓 Education & Certification Path
 
-SUNY Canton  
+State University of New York (SUNY) Canton  
 Bachelor of Science in Cybersecurity  
 Minor in Data Science  
 Expected Graduation: December 2026
@@ -69,18 +73,13 @@ CMMC Certified Assessor (CCA) | compTIA Security+
 
 CMMC Certified Professional (CCP)
 
-## 🔗 Professional Links
+## 🔗 Professional Presence
 
-Portfolio Website  
-https://eliza-ochoa.github.io
-
-LinkedIn  
-https://linkedin.com/in/elizaochoa
-
-Email  
-ochoa104cy@outlook.com
-
+🌐 **Portfolio:** [Cyber](https://eliza-ochoa.github.io)  
+💼 **LinkedIn:** [Profile](https://linkedin.com/in/elizaochoa)  
+📧 **Email:** ochoa104cy@outlook.com
+  
 ## 📚 Research & Publications
 
-Publications related to cybersecurity governance and compliance research are available through Zenodo and connected to my ORCID research profile and portfolio page.
+Publications related to cybersecurity governance and compliance research are available through Zenodo and connected to my [ORCID](https://orcid.org/0009-0006-8845-5692) research profile and [Portfolio page](https://eliza-ochoa.github.io) 
 
