@@ -11,7 +11,7 @@ Cybersecurity Compliance |  CMMC Certified Professional (CCP) | Governance, Risk
 ### 🌐 TrustLens - AI Trustworthiness Analyzer  
 A deterministic AI evaluation tool that helps students assess whether AI generated answers are safe to submit, cite, or rely on.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)(https://trustlens-tano.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://trustlens-tano.streamlit.app/)
 
 
 ### 🌐 IP Intelligence Analyst Workspace  
