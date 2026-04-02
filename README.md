@@ -8,10 +8,16 @@ Cybersecurity Compliance |  CMMC Certified Professional (CCP) | Governance, Risk
 
 ## 🚀 Featured Live Projects
 
+### 🌐 TrustLens - AI Trustworthiness Analyzer  
+A deterministic AI evaluation tool that helps students assess whether AI generated answers are safe to submit, cite, or rely on.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)(https://trustlens-tano.streamlit.app/)
+
+
 ### 🌐 IP Intelligence Analyst Workspace  
 A Streamlit-based cybersecurity analyst workspace for IP investigation, risk scoring, tagging, and case history tracking.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://ip-intel-analyst-workspace.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://ip-intel-analyst-workspace.streamlit.app/)
 
 
 ## 👤 About Me
@@ -42,6 +48,8 @@ All projects are built locally first and later published to GitHub as polished d
 
 ## 🧩 Key Portfolio Areas
 
+- TrustLens - AI Trustworthiness Analyzer
+- IP Intelligence Analyst Workspace
 - CMMC compliance readiness tools
 - Cybersecurity governance documentation
 - Security control analysis
