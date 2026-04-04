@@ -84,8 +84,11 @@ CMMC Certified Professional (CCP)
 ## 🔗 Professional Presence
 
 🌐 **Portfolio:** [Cyber](https://eliza-ochoa.github.io)  
+
 💼 **LinkedIn:** [Profile](https://linkedin.com/in/elizaochoa)
+
 🎥 **YouTube:** [Channel](https://www.youtube.com/channel/UCrxm5cYYNVQQYypi4uHAlDQ)
+
 📧 **Email:** ochoa104cy@outlook.com
   
 ## 📚 Research & Publications
