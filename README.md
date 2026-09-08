@@ -64,6 +64,7 @@ Technical exposure includes:
 
 - Windows
 - Linux
+- IRM/CRM/GRC
 - Active Directory fundamentals
 - enterprise IT support environments
 - documentation and reporting workflows
